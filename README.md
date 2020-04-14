@@ -1,0 +1,2 @@
+# ThresholdEditor
+Qt Threshold Editor
